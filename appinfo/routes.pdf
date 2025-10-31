@@ -1,0 +1,13 @@
+<?php
+
+return [
+    'routes' => [
+        [
+            'name' => 'file#flatten',
+            'url' => '/flatten/{path}',
+            'verb' => 'POST',
+            'requirements' => ['path' => '.+'],
+        ],
+    ],
+];
+

@@ -1,0 +1,9 @@
+{
+    "translations": {
+        "Flatten PDF": "Flatten PDF",
+        "PDF flattened successfully": "PDF flattened successfully",
+        "Failed to flatten PDF": "Failed to flatten PDF",
+        "Failed to contact server": "Failed to contact server",
+        "Error": "Error"
+    }
+}
